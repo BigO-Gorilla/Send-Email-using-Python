@@ -1,2 +1,2 @@
 # Send-Email-using-Python
-send email using python
+Send Email Using python 
